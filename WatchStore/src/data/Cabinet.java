@@ -22,7 +22,7 @@ public class Cabinet {
     }
     
     public void addWatch() {
-        Watch ds[] = new Watch[5];
+        //Watch ds[] = new Watch[count];
         Scanner sc = new Scanner(System.in);
         String id, name;
         int price;
